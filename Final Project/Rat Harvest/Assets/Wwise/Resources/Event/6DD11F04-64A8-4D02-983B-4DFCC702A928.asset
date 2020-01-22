@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ada026a420320349b39bca95d9a1345, type: 3}
+  m_Name: 6DD11F04-64A8-4D02-983B-4DFCC702A928
+  m_EditorClassIdentifier: 
+  objectName: Geometry
+  id: 1168218541
+  guid: 6DD11F04-64A8-4D02-983B-4DFCC702A928
